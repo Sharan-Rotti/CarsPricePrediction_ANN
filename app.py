@@ -16,7 +16,7 @@ st.set_page_config(
 )
 
 # --- 2. MODEL & DATA LOADING ---
-MODEL_FILE = "car_price_predictoR.joblib"
+MODEL_FILE = "car_price_predictoR (3).joblib"
 
 @st.cache_resource
 def load_model(path: str):
