@@ -197,7 +197,7 @@ def page_profile():
     # Using st.markdown for centered text is a good approach here.
     st.markdown("""
         <div style="text-align: center;">
-            <h1>👋 Hi, I'm Alok</h1>
+            <h1>👋 Hi, I'm Sharan Kumar</h1>
                  <h3>    Aspiring Data Scientist    </h3>
         </div>
     """, unsafe_allow_html=True)
@@ -256,8 +256,8 @@ def page_profile():
         # --- LINKS ---
         # Icons add a nice professional touch.
         # st.markdown("""
-        # 💼 **Contact:** [LinkedIn](https://www.linkedin.com/in/alok-tungal) • 
-        # 💻 [GitHub](https://github.com/Alok-Tungal)
+        # 💼 **Contact:** [LinkedIn](https://www.linkedin.com/in/sharan-kumar-rotti/) • 
+        # 💻 [GitHub](https://github.com/Sharan-Rotti)
         # """)
         
         # st.markdown("---")
@@ -289,8 +289,8 @@ def page_profile():
            </style>
        
            <div class="contact-container">
-               <a class="contact-link" href="https://www.linkedin.com/in/alok-tungal" target="_blank">💼 LinkedIn</a>
-               <a class="contact-link" href="https://github.com/Alok-Tungal" target="_blank">💻 GitHub</a>
+               <a class="contact-link" href="https://www.linkedin.com/in/sharan-kumar-rotti/l" target="_blank">💼 LinkedIn</a>
+               <a class="contact-link" href="https://github.com/Sharan-Rotti">💻 GitHub</a>
            </div>
        """, unsafe_allow_html=True)
        
