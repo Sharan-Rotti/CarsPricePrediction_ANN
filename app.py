@@ -344,7 +344,7 @@ def page_profile():
                        style="width:250px; height:250px; border-radius:50%; 
                               object-fit:cover; border:5px solid #ffffff; 
                               box-shadow:0 0 15px rgba(0,0,0,0.3);">
-                  <h3 style="color:white;">Alok</h3>
+                  <h3 style="color:white;">Sharan</h3>
                   <p style="color:gray;">Aspiring Data Scientist </p>
               </div>
               """,
@@ -522,4 +522,4 @@ st.sidebar.markdown("---")
 page_options[selected_page_name]()
 
 st.markdown("---")
-st.caption("Built by Alok • Car Price Prediction & Analysis • Use responsibly")
+st.caption("Built by Sharan  • Car Price Prediction & Analysis • Use responsibly")
